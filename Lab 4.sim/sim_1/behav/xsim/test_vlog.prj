@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../Apps/Xilinx/2025.2.1/Vivado/data/rsb/busdef" \
+"../../../../../Downloads/class/class/maxterm.v" \
+"../../../../../Downloads/class/class/minterm.v" \
+"../../../../../Downloads/class/class/naive.v" \
+"../../../../../Downloads/class/class/top.v" \
+"../../../../../Downloads/class/class/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

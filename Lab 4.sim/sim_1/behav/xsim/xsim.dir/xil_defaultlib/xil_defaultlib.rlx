@@ -1,0 +1,10 @@
+0.7
+2020.2
+Mar 19 2026
+19:50:51
+C:/Users/HAYDENNGUYEN/Downloads/class/class/maxterm.v,1790094727,verilog,,C:/Users/HAYDENNGUYEN/Downloads/class/class/minterm.v,,maxterm,,,../../../../../../../Apps/Xilinx/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/HAYDENNGUYEN/Downloads/class/class/minterm.v,1790094686,verilog,,C:/Users/HAYDENNGUYEN/Downloads/class/class/naive.v,,minterm,,,../../../../../../../Apps/Xilinx/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/HAYDENNGUYEN/Downloads/class/class/naive.v,1790092803,verilog,,C:/Users/HAYDENNGUYEN/Downloads/class/class/top.v,,naive,,,../../../../../../../Apps/Xilinx/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/HAYDENNGUYEN/Downloads/class/class/test.v,1790090589,verilog,,,,test,,,../../../../../../../Apps/Xilinx/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/HAYDENNGUYEN/Downloads/class/class/top.v,1790090589,verilog,,C:/Users/HAYDENNGUYEN/Downloads/class/class/test.v,,top,,,../../../../../../../Apps/Xilinx/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/HAYDENNGUYEN/Lab 4/Lab 4.sim/sim_1/behav/xsim/glbl.v,1762536278,verilog,,,,glbl,,,,,,,,
